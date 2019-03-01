@@ -70,7 +70,7 @@ links:
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
 # 头像
-avatar: /images/avatar.jpeg
+avatar: https://github.com/godspeed-w/picture/blob/master/head1.jpeg?raw=true
 
 
 # 网站统计
